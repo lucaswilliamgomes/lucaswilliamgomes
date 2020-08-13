@@ -1,16 +1,14 @@
-### Hi there 👋
+### <p>   **Hello people** 👋    </p>  
 
-<!--
-**lucaswilliamgomes/lucaswilliamgomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### -  💻 I’m currently student of firth period of computer science and am doing two online courses (one of python and one of web-development).
 
-Here are some ideas to get you started:
+<a href="https://instagram.com/lucaswilliam_g"> <img src="https://img.shields.io/badge/-lucaswilliam__g-B55757?style=flat-square&labelColor=B55757&logo=instagram&logoColor=white"> </a> 
+<a href="https://twitter.com/lucz_william"> <img src="https://img.shields.io/badge/-lucz__william-243447?style=flat-square&labelColor=243447&logo=twitter&logoColor=white"> </a>
+<a href="www.linkedin.com/in/lucaswilliamgomes"> <img src="https://img.shields.io/badge/-LinkedIn-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=linkedin&logoColor=white"> </a>
+<a href="www.linkedin.com/in/lucaswilliamgomes"> <img src="https://img.shields.io/badge/-lucaswilliam133@gmail.com-BF3124?style=flat-square&labelColor=BF3124&logo=gmail&logoColor=white"> </a>
+   
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🌱 I’m currently learning Python 🐍 , JavaScript - NodeJs 📒 and Frondend - HTML 🔤 and CSS 🎭
+- ⚡ Fun fact: I am passionate about science, technology, games and beer with friends ❤️
+- 🚀 **Beginner** but with blood in the eyes for learning more and more 
