@@ -9,6 +9,6 @@
    
 
 
-- 🌱 I’m currently learning Python 🐍 , JavaScript - NodeJs 📒 and Frondend - HTML 🔤 and CSS 🎭
+- 🌱 I’m currently learning C++ ➕, Python 🐍 , JavaScript - NodeJs 📒 and Frondend - HTML 🔤 and CSS 🎭
 - ⚡ Fun fact: I am passionate about science, technology, games and beer with friends ❤️
 - 🚀 **Beginner** but with blood in the eyes for learning more and more 
