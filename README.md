@@ -1,6 +1,6 @@
 ### <p>   **Hello people** 👋    </p>  
 
-#### -  💻 I’m currently student of firth period of computer science and am doing two online courses (one of python and one of web-development).
+#### -  💻 I’m currently student of firth period of computer science.
 
 <a href="https://instagram.com/lucaswilliam_g"> <img src="https://img.shields.io/badge/-lucaswilliam__g-B55757?style=flat-square&labelColor=B55757&logo=instagram&logoColor=white"> </a> 
 <a href="https://twitter.com/lucz_william"> <img src="https://img.shields.io/badge/-lucz__william-243447?style=flat-square&labelColor=243447&logo=twitter&logoColor=white"> </a>
@@ -9,6 +9,6 @@
    
 
 
-- 🌱 I’m currently learning C++ ➕, Python 🐍 , JavaScript - NodeJs 📒 and Frondend - HTML 🔤 and CSS 🎭
+- 🌱 I’m currently studying c++ for competitive programing C++ and learnig Python 🐍 , JavaScript - NodeJs 📒 and Frondend - HTML 🔤 and CSS 🎭
 - ⚡ Fun fact: I am passionate about science, technology, games and beer with friends ❤️
 - 🚀 **Beginner** but with blood in the eyes for learning more and more 
