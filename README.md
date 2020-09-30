@@ -1,4 +1,4 @@
-### <p>   **Hello people** 👋    </p>  
+### <p>   **Hello World** 👋    </p>  
 
 #### -  💻 I’m currently student of firth period of computer science.
 
