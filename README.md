@@ -1,4 +1,4 @@
-### <p>   **Hello people** 👋    </p>  
+### <p>   **Hello World** 👋    </p>  
 
 #### -  💻 I’m currently student of firth period of computer science.
 
@@ -9,6 +9,6 @@
    
 
 
-- 🌱 I’m currently learning Python 🐍 , JavaScript - NodeJs 📒 and Frondend - HTML 🔤 and CSS 🎭
+- 🌱 I’m currently studying C++ for competitive programing and i have basic knowledge in C, Python 🐍 , JavaScript - NodeJs 📒 - HTML 🔤 and CSS 🎭
 - ⚡ Fun fact: I am passionate about science, technology, games and beer with friends ❤️
 - 🚀 **Beginner** but with blood in the eyes for learning more and more 
