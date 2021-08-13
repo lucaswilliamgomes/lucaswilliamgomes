@@ -1,8 +1,8 @@
 <div align="center">
-<h2>Hi there, my name is Lucas 👋</h2>
+<h2>Hi there 👋</h2>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaswilliamgomes&exclude_repo=Beginner-django&layout=compact&theme=omni)](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaswilliamgomes&exclude_repo=Beginner-django&hide=C&layout=compact&theme=omni)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaswilliamgomes&exclude_repo=Beginner-django&hide=C&layout=compact&theme=omni)](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaswilliamgomes&exclude_repo=Beginner-django&hide=C&layout=compact&theme=omni)
 
 <br>
 
@@ -14,6 +14,7 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+<img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
 
