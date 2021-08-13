@@ -2,7 +2,7 @@
 <h2>Hi there, my name is Lucas 👋</h2>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaswilliamgomes&exclude_repo=Learning_web&hide=C&layout=compact&theme=omni)](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaswilliamgomes&exclude_repo=Learning_web&hide=C&layout=compact&theme=omni)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaswilliamgomes&exclude_repo=Beginner-django&layout=compact&theme=omni)](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaswilliamgomes&exclude_repo=Beginner-django&hide=C&layout=compact&theme=omni)
 
 <br>
 
