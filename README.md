@@ -1,6 +1,6 @@
-<div align>
+<div align="center">
 <h2>Hi there 👋</h2>
-<br>
+</div>
 
 
 - <img height="16" src="https://avatars.githubusercontent.com/u/14101776?s=200&v=4"> I'm currently learning about mobile development with flutter.
@@ -16,7 +16,6 @@
 
 - 👨‍💻 Experiences with : 
 
-
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
     <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" />
@@ -29,5 +28,5 @@
 <br> 
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaswilliamgomes&exclude_repo=Beginner-django&hide=C&layout=compact&theme=calm) -->
-![](https://github-readme-stats.vercel.app/api?username=lucaswilliamgomes&count_private=true&show_icons=true&theme=calm)
-</div>
+
+![stats](https://github-readme-stats.vercel.app/api?username=lucaswilliamgomes&count_private=true&show_icons=true&theme=calm)
