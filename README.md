@@ -28,5 +28,5 @@
 <br>
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaswilliamgomes&exclude_repo=Beginner-django&hide=C&layout=compact&theme=calm) -->
-
-![stats](https://github-readme-stats.vercel.app/api?username=lucaswilliamgomes&count_private=true&show_icons=true&theme=calm)
+<!-- 
+![stats](https://github-readme-stats.vercel.app/api?username=lucaswilliamgomes&count_private=true&show_icons=true&theme=calm) -->
