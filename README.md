@@ -2,9 +2,7 @@
 <h2>Hi there 👋</h2>
 </div>
 
-
-- <img height="16" src="https://avatars.githubusercontent.com/u/14101776?s=200&v=4"> I'm currently learning about mobile development with flutter.
-- 💻 Django Backend Developer.
+- 💻 I’m currently working at [EloGroup](https://elogroup.com.br/) as Full-Stack Developer.
 - 🧑🏼‍🎓 Computer Science in progress.
 - 📍 Where to find me?
 - 
