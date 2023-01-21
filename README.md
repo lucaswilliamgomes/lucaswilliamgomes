@@ -8,7 +8,6 @@
 - 
     <a href="https://www.linkedin.com/in/lucaswilliamgomes/"> <img src="https://img.shields.io/badge/-LinkedIn-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=linkedin&logoColor=white"> </a>
     <a href="https://mail.google.com/"> <img src="https://img.shields.io/badge/-lucaswilliam133@gmail.com-BF3124?style=flat-square&labelColor=BF3124&logo=gmail&logoColor=white"> </a>
-    <a href="https://twitter.com/lucz_william"> <img src="https://img.shields.io/badge/-lucz__william-243447?style=flat-square&labelColor=243447&logo=twitter&logoColor=white"> </a>
 
 - 👨‍💻 Experiences with :
 
